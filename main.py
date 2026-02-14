@@ -36,9 +36,9 @@ person1 = Person("Bob", 21)
 person1.get_older(15)
 print(person1)
 
-worker1 = Worker("Alice", 30, "Software Engineer", 2500)
+worker1 = Worker("Alice", 30, "Software Engineer", 2500) # monthly salary
 print(worker1)
-# while person1.alive:
-#     person1.get_older(random.randint(1,10))
-#     time.sleep(2)
-#     print(person1)
+while worker1.alive:
+    worker1.get_older(random.randint(1,10))
+    time.sleep(2)
+    print(worker1)
