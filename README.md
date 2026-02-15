@@ -4,6 +4,8 @@ Life Simulator é um projeto em Python que criei para revisar meus conhecimentos
 O projeto conta com:
 - Verificação de morte
 - Frases de morte
+- Envelhecimento
+- Morte automática ao alcançar expectativa de vida
 
 ## Como Funciona?
 
