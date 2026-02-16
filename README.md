@@ -6,6 +6,10 @@ O projeto conta com:
 - Frases de morte
 - Envelhecimento
 - Morte automática ao alcançar expectativa de vida
+- Suporte multilinguagem (português e inglês)
+
+<img width = "400" height="200" src="https://github.com/user-attachments/assets/16818060-7fc6-4cba-9948-35de5428a6f0" alt="Suporte Multilinguagem">
+
 
 ## Como Funciona?
 
@@ -28,11 +32,11 @@ Além dos parâmetros básicos que a classe pai toma, essa classe exige em seu c
 * Herança de Classes
 
 ## TODO
-~~* Adicionar chances de morte proporcionais a idade da pessoa~~
+* ~~Adicionar chances de morte proporcionais a idade da pessoa~~
 
-~~* Variação em relação a expectativa de vida, diferente para cada pessoa~~
+* ~~Variação em relação a expectativa de vida, diferente para cada pessoa~~
 * Passar do tempo automaticamente, afetando todas as variáveis pessoais (como o estado vida-morte e a idade)
-* Suporte multilingual 
+* ~~Suporte multilingual~~
 
 
 
