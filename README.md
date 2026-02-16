@@ -28,10 +28,10 @@ Além dos parâmetros básicos que a classe pai toma, essa classe exige em seu c
 * Herança de Classes
 
 ## TODO
-* Adicionar chances de morte proporcionais a idade da pessoa 
-* Variação em relação a expectativa de vida, diferente para cada pessoa
+~~* Adicionar chances de morte proporcionais a idade da pessoa~~
+~~* Variação em relação a expectativa de vida, diferente para cada pessoa~~
 * Passar do tempo automaticamente, afetando todas as variáveis pessoais (como o estado vida-morte e a idade)
-
+* Suporte multilingual 
 
 
 
