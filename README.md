@@ -5,7 +5,7 @@ O projeto conta com:
 - Verificação de morte
 - Frases de morte
 - Envelhecimento
-- Morte automática ao alcançar expectativa de vida
+- Quanto mais velha a pessoa, mais chances dela morrer
 - Suporte multilinguagem (português e inglês)
 
 <img width = "400" height="200" src="https://github.com/user-attachments/assets/16818060-7fc6-4cba-9948-35de5428a6f0" alt="Suporte Multilinguagem">
