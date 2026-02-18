@@ -5,7 +5,6 @@ O projeto conta com:
 - Verificação de morte
 - Frases de morte
 - Envelhecimento
-- Morte automática ao alcançar expectativa de vida
 - Suporte multilinguagem (português e inglês)
 - Entrada (input) do usuário, conferindo dinamicidade ao programa
 
